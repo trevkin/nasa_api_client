@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AggregateException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429514758" remote="131816020420000000" />
+<file name="CancellationException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429524476" remote="131816020420000000" />
+<file name="Coroutine.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429544628" remote="131816020420000000" />
+<file name="EachPromise.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429564372" remote="131816020420000000" />
+<file name="FulfilledPromise.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429574542" remote="131816020420000000" />
+<file name="functions.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429723959" remote="131816020420000000" />
+<file name="functions_include.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429764037" remote="131816020420000000" />
+<file name="Promise.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429594483" remote="131816020420000000" />
+<file name="PromiseInterface.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429614240" remote="131816020420000000" />
+<file name="PromisorInterface.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429624411" remote="131816020420000000" />
+<file name="RejectedPromise.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429634392" remote="131816020420000000" />
+<file name="RejectionException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429654672" remote="131816020420000000" />
+<file name="TaskQueue.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429674080" remote="131816020420000000" />
+<file name="TaskQueueInterface.php" server="C:/wamp64/www/guzzle_demo/" local="131816020429684053" remote="131816020420000000" />
+</dwsync>

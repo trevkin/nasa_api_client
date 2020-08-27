@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AppendStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020436847026" remote="131816020430000000" />
+<file name="BufferStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020436866780" remote="131816020430000000" />
+<file name="CachingStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020436886735" remote="131816020430000000" />
+<file name="DroppingStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020436906686" remote="131816020430000000" />
+<file name="FnStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020436936812" remote="131816020430000000" />
+<file name="functions.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437256031" remote="131816020430000000" />
+<file name="functions_include.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437285960" remote="131816020430000000" />
+<file name="InflateStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020436956730" remote="131816020430000000" />
+<file name="LazyOpenStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020436966744" remote="131816020430000000" />
+<file name="LimitStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437006658" remote="131816020430000000" />
+<file name="MessageTrait.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437016383" remote="131816020430000000" />
+<file name="MultipartStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437036327" remote="131816020430000000" />
+<file name="NoSeekStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437046294" remote="131816020430000000" />
+<file name="PumpStream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437066500" remote="131816020430000000" />
+<file name="Request.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437076408" remote="131816020430000000" />
+<file name="Response.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437096163" remote="131816020430000000" />
+<file name="ServerRequest.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437116107" remote="131816020430000000" />
+<file name="Stream.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437126080" remote="131816020430000000" />
+<file name="StreamDecoratorTrait.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437136320" remote="131816020430000000" />
+<file name="StreamWrapper.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437156170" remote="131816020430000000" />
+<file name="UploadedFile.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437176219" remote="131816020430000000" />
+<file name="Uri.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437195904" remote="131816020430000000" />
+<file name="UriNormalizer.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437215859" remote="131816020430000000" />
+<file name="UriResolver.php" server="C:/wamp64/www/guzzle_demo/" local="131816020437236055" remote="131816020430000000" />
+</dwsync>

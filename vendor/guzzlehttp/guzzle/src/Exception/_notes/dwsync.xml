@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadResponseException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439867856" remote="131816020430000000" />
+<file name="ClientException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439877829" remote="131816020430000000" />
+<file name="ConnectException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439897781" remote="131816020430000000" />
+<file name="GuzzleException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439907751" remote="131816020430000000" />
+<file name="RequestException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439927892" remote="131816020430000000" />
+<file name="SeekException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439937672" remote="131816020430000000" />
+<file name="ServerException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439947639" remote="131816020430000000" />
+<file name="TooManyRedirectsException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439957725" remote="131816020430000000" />
+<file name="TransferException.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439967725" remote="131816020430000000" />
+</dwsync>

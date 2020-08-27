@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Client.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439728481" remote="131816020430000000" />
+<file name="ClientInterface.php" server="C:/wamp64/www/guzzle_demo/" local="131816020439748367" remote="131816020430000000" />
+<file name="functions.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440316662" remote="131816020440000000" />
+<file name="functions_include.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440356754" remote="131816020440000000" />
+<file name="HandlerStack.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440147184" remote="131816020440000000" />
+<file name="MessageFormatter.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440167255" remote="131816020440000000" />
+<file name="Middleware.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440187192" remote="131816020440000000" />
+<file name="Pool.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440207191" remote="131816020440000000" />
+<file name="PrepareBodyMiddleware.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440216924" remote="131816020440000000" />
+<file name="RedirectMiddleware.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440237141" remote="131816020440000000" />
+<file name="RequestOptions.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440256812" remote="131816020440000000" />
+<file name="RetryMiddleware.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440266789" remote="131816020440000000" />
+<file name="TransferStats.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440276960" remote="131816020440000000" />
+<file name="UriTemplate.php" server="C:/wamp64/www/guzzle_demo/" local="131816020440296860" remote="131816020440000000" />
+</dwsync>
